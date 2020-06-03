@@ -1,4 +1,4 @@
-# Babel Webpack Starter
+# Javascript. Private classes and methods
 
 A Javascript project to show the private class properties and methods.
 
